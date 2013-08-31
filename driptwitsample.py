@@ -1,8 +1,6 @@
 #******************************************#
 # Tweet-a-Pot by Gregg Horton 2011         #
-# Please email changes or                  # 
-# updates to greggawatt@instructables.com  #
-# so i can keep it updated		   #
+# https://github.com/greggawatt/tweetapot  #
 # *****************************************#
 
 ##Import Libraries

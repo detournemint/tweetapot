@@ -7,3 +7,5 @@ Tweet-a-pot is the next in fancy twitter enabled devices. This coffee pot enable
 The tweet-a-pot is the easy implementation for remote device control! with a bit of code and some hardware, you can have your very own twitter enabled coffee pot.
 
 Full Instructions can be found here: http://www.instructables.com/id/Tweet-a-Pot-Twitter-Enabled-Coffee-Pot/
+
+Requires the Python-Twitter library found here: http://code.google.com/p/python-twitter/
